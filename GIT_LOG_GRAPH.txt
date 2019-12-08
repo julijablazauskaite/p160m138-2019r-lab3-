@@ -1,0 +1,32 @@
+*   commit 5b3c9018a5092a27fbe68fe594ed1e5f9b7d6e66 (HEAD -> master, origin/master)
+|\  Merge: 93f4e06 05273ad
+| | Author: julijablazauskaite <56751582+julijablazauskaite@users.noreply.github.com>
+| | Date:   Tue Dec 3 20:49:41 2019 +0200
+| | 
+| |     Merge pull request #1 from julijablazauskaite/bank-tele-split
+| |     
+| |     train_test_target
+| | 
+| * commit 05273ad53b89820037f8d991ab8d9356f9c1cadc (origin/bank-tele-split, bank-tele-split)
+|/  Author: Julija.Blazauskaite <julija.blazauskaite@ktu.edu.lt>
+|   Date:   Tue Dec 3 20:48:42 2019 +0200
+|   
+|       train_test_target
+| 
+* commit 93f4e067e4690d19fbf794d2ecce3fdc005ebe84
+| Author: Julija.Blazauskaite <julija.blazauskaite@ktu.edu.lt>
+| Date:   Tue Dec 3 20:36:37 2019 +0200
+| 
+|     histogramos
+| 
+* commit 8df12cb48533f2b9531de1908492b69dd5e1abb3
+| Author: Julija.Blazauskaite <julija.blazauskaite@ktu.edu.lt>
+| Date:   Tue Dec 3 19:50:10 2019 +0200
+| 
+|     init
+| 
+* commit a83ae616da837d3741865aabe61e7b362c52681a
+  Author: Julija.Blazauskaite <julija.blazauskaite@ktu.edu.lt>
+  Date:   Sat Nov 16 12:15:30 2019 +0200
+  
+      init
